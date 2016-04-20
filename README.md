@@ -1,2 +1,2 @@
-# telugu_text_wikisource
-classical telugu texts from wikisource.
+# classical-telugu
+classical telugu texts extracted from https://te.wikisource.org
