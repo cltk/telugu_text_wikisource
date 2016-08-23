@@ -11,6 +11,5 @@ Public Domain Mark 1.0. See `LICENSE` for more.
  - <a href="https://en.wikipedia.org/wiki/Molla_(poet)"> Molla </a>
  - <a href="https://en.wikipedia.org/wiki/Pothana"> Pothana </a>
  - <a href="https://en.wikipedia.org/wiki/Dhurjati"> Dhurjati </a>
- - <a href=https://en.wikipedia.org/wiki/Vemana""> Vemana </a>
+ - <a href="https://en.wikipedia.org/wiki/Vemana"> Vemana </a>
  - <a href="https://en.wikipedia.org/wiki/Seshappa"> Seshappa </a>
- 
